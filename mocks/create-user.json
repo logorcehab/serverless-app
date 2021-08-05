@@ -1,0 +1,8 @@
+{
+    "body": "{\"name\":\"logorcehab\",\"email\":\"logorcehab@gmail.com\",\"phone_number\":\"0205350000\",\"password\":\"dev@gmail\"}",
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "USER-SUB-1234"
+      }
+    }
+  }
